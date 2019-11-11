@@ -6,6 +6,14 @@ WRITE YOUR OWN CUSTOM CSS STYLES HERE.
 
 */
 
+@media screen and (max-width: 991px)
+.header--nav {
+    float: none;
+    max-height: 320px;
+    background-color: #000000;
+    overflow: auto !important;
+}
+
 .banner--content {
     width: 40%;
     color: #dcdcdc;

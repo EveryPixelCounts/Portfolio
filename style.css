@@ -1843,7 +1843,7 @@ body.scrolled #backToTop {
     .header--nav {
         float: none;
         max-height: 320px;
-        background-color: #fff;
+        background-color: #000;
         overflow: auto !important;
     }
     .header--nav.collapse {
